@@ -1,0 +1,1 @@
+// buka file ini = kegocek
