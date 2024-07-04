@@ -1,1 +1,0 @@
-// buka file = kegocek
